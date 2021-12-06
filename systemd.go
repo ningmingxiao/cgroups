@@ -29,7 +29,7 @@ import (
 
 const (
 	SystemdDbus  Name = "systemd"
-	defaultSlice      = "system.slice"
+	defaultSlice  Name    = "system.slice"
 )
 
 var (
